@@ -1,5 +1,5 @@
 /* ==========================================================================
-   KEYFRAMES & ADVANCED MICRO-ANIMATIONS FOR APEX GROWTH MEDIA
+   KEYFRAMES & ADVANCED MICRO-ANIMATIONS FOR Prime Vibe Event & Shoot
    ========================================================================== */
 
 /* Top Scroll Progress Line */
@@ -17,15 +17,31 @@
 
 /* Floating badges floating effect */
 @keyframes float-gentle {
-  0% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-12px) rotate(1.5deg); }
-  100% { transform: translateY(0px) rotate(0deg); }
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-12px) rotate(1.5deg);
+  }
+
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
 }
 
 @keyframes float-gentle-reverse {
-  0% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(12px) rotate(-1.5deg); }
-  100% { transform: translateY(0px) rotate(0deg); }
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(12px) rotate(-1.5deg);
+  }
+
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
 }
 
 .badge-1 {
@@ -38,8 +54,13 @@
 
 /* Button Shimmer Light Sweep Effect */
 @keyframes shimmer-sweep {
-  0% { transform: translateX(-100%) rotate(25deg); }
-  100% { transform: translateX(250%) rotate(25deg); }
+  0% {
+    transform: translateX(-100%) rotate(25deg);
+  }
+
+  100% {
+    transform: translateX(250%) rotate(25deg);
+  }
 }
 
 .btn-cta::after {
@@ -61,10 +82,12 @@
     transform: scale(0.95);
     box-shadow: 0 0 0 0 rgba(229, 57, 53, 0.7);
   }
+
   70% {
     transform: scale(1);
     box-shadow: 0 0 0 10px rgba(229, 57, 53, 0);
   }
+
   100% {
     transform: scale(0.95);
     box-shadow: 0 0 0 0 rgba(229, 57, 53, 0);
@@ -105,15 +128,31 @@
   transform: translateY(0) translateX(0) scale(1);
 }
 
-.reveal-delay-1 { transition-delay: 0.1s; }
-.reveal-delay-2 { transition-delay: 0.2s; }
-.reveal-delay-3 { transition-delay: 0.3s; }
-.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-1 {
+  transition-delay: 0.1s;
+}
+
+.reveal-delay-2 {
+  transition-delay: 0.2s;
+}
+
+.reveal-delay-3 {
+  transition-delay: 0.3s;
+}
+
+.reveal-delay-4 {
+  transition-delay: 0.4s;
+}
 
 /* Marquee Ticker */
 @keyframes marquee-scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
 }
 
 .marquee-container {
@@ -142,7 +181,7 @@
   height: 100vh;
   background-color: var(--bg-dark-accent);
   color: var(--text-white);
-  box-shadow: -10px 0 30px rgba(0,0,0,0.5);
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5);
   z-index: 1500;
   padding: 40px 24px;
   display: flex;
@@ -191,8 +230,9 @@
     opacity: 1 !important;
     transform: none !important;
   }
-  
-  .floating-badge, .marquee-content {
+
+  .floating-badge,
+  .marquee-content {
     animation: none !important;
   }
 }

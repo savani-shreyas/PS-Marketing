@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Interactive Performance Network Hero Canvas
+ * Prime Vibe Event & Shoot - Interactive Performance Network Hero Canvas
  * Renders high-tech connecting growth nodes, glowing campaign signals,
  * and mouse-responsive floating ROI particles behind the Hero Section.
  */

@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Performance Marketing Agency Data Configuration
+ * Prime Vibe Event & Shoot - Performance Marketing Agency Data Configuration
  * Centralized data object for easy content management and customization.
  */
 
@@ -11,7 +11,7 @@ const agencyData = {
     logoAccent: "Event & Shoot",
     logoPath: "asset/Logo.png",
     phone: "+91 98765 43210",
-    email: "growth@apexgrowthmedia.com",
+    email: "growth@primevibe.com",
     address: "Financial District, Tech Tower 4th Floor, Hyderabad / Remote Global",
     consultationLink: "#contact"
   },
@@ -374,7 +374,7 @@ const agencyData = {
       company: "FinTech ScaleUp",
       avatar: "RM",
       rating: 5,
-      quote: "Apex Growth Media transformed our paid acquisition funnel. We reduced our CPL by 38% within 45 days while increasing qualified demo volume by nearly 2x. They treat our ad spend like their own money.",
+      quote: "Prime Vibe Event & Shoot transformed our paid acquisition funnel. We reduced our CPL by 38% within 45 days while increasing qualified demo volume by nearly 2x. They treat our ad spend like their own money.",
       metricBadge: "+184% Leads Surge"
     },
     {
@@ -392,7 +392,7 @@ const agencyData = {
       company: "UrbanSpace Properties",
       avatar: "VS",
       rating: 5,
-      quote: "Before working with Apex, 60% of our real estate leads were uncontactable. Their pre-qualification lead funnel cut our CPL in half and delivered real buyers. Phenomenal growth partners.",
+      quote: "Before working with Prime Vibe Event & Shoot, 60% of our real estate leads were uncontactable. Their pre-qualification lead funnel cut our CPL in half and delivered real buyers. Phenomenal growth partners.",
       metricBadge: "-48% CPL Reduction"
     }
   ],

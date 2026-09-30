@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Interactive Media Reel & Case Study Modal Player
+ * Prime Vibe Event & Shoot - Interactive Media Reel & Case Study Modal Player
  * Provides interactive direct-response reel video modal previews
  */
 

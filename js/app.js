@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Main Application Logic & Component Renderer
+ * Prime Vibe Event & Shoot - Main Application Logic & Component Renderer
  * Ultra-Modern Design System with Strategic Red CTA placement
  */
 

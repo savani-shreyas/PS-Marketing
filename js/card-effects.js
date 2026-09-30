@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Modern 3D Card Tilt, Radial Spotlight & Magnetic Buttons
+ * Prime Vibe Event & Shoot - Modern 3D Card Tilt, Radial Spotlight & Magnetic Buttons
  * Implements interactive micro-animations for cards, packages, services & CTAs
  */
 

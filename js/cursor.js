@@ -1,5 +1,5 @@
 /**
- * Apex Growth Media - Interactive Marketing Icon Custom Cursor & Lerp Aura
+ * Prime Vibe Event & Shoot - Interactive Marketing Icon Custom Cursor & Lerp Aura
  * Features:
  * - Dynamic SVG Marketing Pointer Icon (Growth arrow + target graphic)
  * - Smooth Lerp (Linear Interpolation) Trailing Aura Ring
